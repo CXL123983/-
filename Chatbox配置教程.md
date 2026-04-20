@@ -74,7 +74,7 @@
 ### 第一步：下载安装包
 
 1. 访问[Chatbox 官网](https://chatboxai.app/zh)
-![输入图片说明](/https://github.com/CXL123983/-/blob/main/chatbox/aec11d56-92f1-4434-9a9d-10c6df15d644.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/aec11d56-92f1-4434-9a9d-10c6df15d644.png?raw=true)
 2. 选择 macOS 版本下载
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/44e8e90b-c670-4a58-95f9-2f5499d9c6c6.png?raw=true)
 3. 文件名如：`Chatbox-x.x.x.dmg`
