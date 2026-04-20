@@ -17,7 +17,7 @@
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/aec11d56-92f1-4434-9a9d-10c6df15d644.png?raw=true)
 
 3. 选择 Windows 版本下载
-![输入图片说明](/imgs/2026-04-16/N0k9ZnAU7YqMTRUx.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/61d905d0-cf5c-459f-9079-c651c6fbb919.png?raw=true)
 4. 文件名如：`Chatbox-Setup-x.x.x.exe`
 5. 等待下载完成（约 80-150MB）
 
@@ -45,11 +45,11 @@
 
 ### 第四步：创建API Key
 1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
-![输入图片说明](/imgs/2026-04-16/W1WUabNUfgeaL63F.png)
-![输入图片说明](/imgs/2026-04-16/Pa9uY0zlNp6NGf1z.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/d7265b65-82ae-4c75-b482-4e930ebe15b2.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/c88d3457-5a96-420b-8cbe-438fd1133ced.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
 2. 复制密钥（格式：`sk-xxxxx`）
-![输入图片说明](/imgs/2026-04-18/DMp0WRKIHmQINVBM.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/8124c2c3-9ada-4c19-a4b2-bd151122cd81.png?raw=true)
 3. 妥善保存
 ### 第五步：导入密钥到Chatbox
 
@@ -74,9 +74,9 @@
 ### 第一步：下载安装包
 
 1. 访问[Chatbox 官网](https://chatboxai.app/zh)
-![输入图片说明](/imgs/2026-04-16/p2OikLZZS8yX32Vp.png)
+![输入图片说明](/https://github.com/CXL123983/-/blob/main/chatbox/aec11d56-92f1-4434-9a9d-10c6df15d644.png?raw=true)
 2. 选择 macOS 版本下载
-![输入图片说明](/imgs/2026-04-16/gvIKtJixyOFZcLx6.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/44e8e90b-c670-4a58-95f9-2f5499d9c6c6.png?raw=true)
 3. 文件名如：`Chatbox-x.x.x.dmg`
 4. 等待下载完成（约 100-180MB）
 
@@ -126,9 +126,9 @@
 #### 第一步：下载 AppImage
 
 1. 访问[Chatbox 官网](https://chatboxai.app/zh)
-![输入图片说明](/imgs/2026-04-16/EXyE6sIOfkzgGbur.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/aec11d56-92f1-4434-9a9d-10c6df15d644.png?raw=true)
 2. 选择 Linux AppImage 版本下载
-![输入图片说明](/imgs/2026-04-16/sdXJWpPWFhZ36CjW.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/f2ffd8bb-6695-4f32-bb75-7b6853d91cf6.png?raw=true)
 3. 文件名如：`Chatbox-x.x.x.AppImage`
 4. 等待下载完成（约 80-150MB）
 
@@ -258,12 +258,12 @@ sudo yum install chatbox-x.x.x.rpm
 ### 第三步：配置 API 密钥
 
 1. 点击的"设置"图标，一般在左下角侧边栏找到设置入口
-![输入图片说明](/imgs/2026-04-18/itOMAQ1a1h5n572H.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/19b9fae9-4da2-4a3f-9987-e7277af6972c.png?raw=true)
 2. 选择模型提供方
-![输入图片说明](/imgs/2026-04-18/IUX2amz95yqLAlAj.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/763105c8-aa1f-4846-9ae5-6b2bdcd2fcb8.png?raw=true)
 3. 输入你的 API 密钥
 4. 填写 API Base URL：`https://api.gpapi.com/v1`
-![输入图片说明](/imgs/2026-04-18/I8WG9lYXU7VUC3y9.png)
+![输入图片说明](/https://github.com/CXL123983/-/blob/main/chatbox/e4e8383b-6d7c-43f0-97fa-a243a21a2e90.png?raw=trueg)
 5. 选择模型版本
 6. 保存配置
 ### 第四步：开始聊天
