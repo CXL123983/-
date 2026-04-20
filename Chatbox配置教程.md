@@ -14,7 +14,7 @@
 
 ### 第一步：下载安装包
 1. 访问[Chatbox 官网](https://chatboxai.app/zh)
-![输入图片说明]([/imgs/2026-04-16/vj73u6JHSmFBcChj.png](https://github.com/CXL123983/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260420172357_1129_15.png))
+![输入图片说明](https://github.com/CXL123983/-/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20260420172357_1129_15.png)
 
 3. 选择 Windows 版本下载
 ![输入图片说明](/imgs/2026-04-16/N0k9ZnAU7YqMTRUx.png)
