@@ -263,7 +263,7 @@ sudo yum install chatbox-x.x.x.rpm
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/763105c8-aa1f-4846-9ae5-6b2bdcd2fcb8.png?raw=true)
 3. 输入你的 API 密钥
 4. 填写 API Base URL：`https://api.gpapi.com/v1`
-![输入图片说明](/https://github.com/CXL123983/-/blob/main/chatbox/e4e8383b-6d7c-43f0-97fa-a243a21a2e90.png?raw=trueg)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/e4e8383b-6d7c-43f0-97fa-a243a21a2e90.png?raw=true)
 5. 选择模型版本
 6. 保存配置
 ### 第四步：开始聊天
