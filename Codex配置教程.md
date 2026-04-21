@@ -72,14 +72,14 @@
 **方式二：从开始菜单启动**
 - 点击开始菜单
 - 搜索 "Codex"
-![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/45d98e6a-5a4b-40ac-ba63-b4b45f56a93c.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/45d98e6a-5a4b-40ac-ba63-b4b45f56a93c.png?raw=true)
 - 点击应用图标
 
 ### 第四步：首次配置
 
 1. 应用启动后会弹出配置向导
 2. 使用 ChatGPT 账号或 API Key 登录
-![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/b00764b9-fd8c-4d27-80f9-5bd458c36141.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/b00764b9-fd8c-4d27-80f9-5bd458c36141.png?raw=true)
 3. 输入你的 API 密钥：
    ```
    sk-xxxxx（替换为你的真实密钥）
