@@ -44,7 +44,7 @@
 - 点击应用图标
 
 ### 第四步：创建API Key
-1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
+1. 登录 [API 密钥 - 拓垦API](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/d7265b65-82ae-4c75-b482-4e930ebe15b2.png?raw=true)
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/chatbox/c88d3457-5a96-420b-8cbe-438fd1133ced.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
