@@ -3,7 +3,7 @@ Codex CLI 配置教程
 
 Codex 是支持 OpenAI API 兼容接口的 CLI 工具，使用配置文件的方式进行设置。本教程涵盖 Windows、macOS 和 Linux 的安装和配置。
 
-Codex CLI依赖 Node.js 运行环境，请先参考[Node.js环境安装教程](/%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/Node.js%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)完成安装并验证。
+Codex CLI依赖 Node.js 运行环境，请先参考[Node.js环境安装教程](https://github.com/CXL123983/-/blob/main/Node.js%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)完成安装并验证。
 ## 📋 目录
 
 [Windows](#windows-)
