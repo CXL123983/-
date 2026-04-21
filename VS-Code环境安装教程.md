@@ -113,7 +113,7 @@ sudo apt install ./<file>.deb
 
 ```
 
-> ==注释== 
+> 注释
 > 其他二进制文件也可在[VS Code下载页面](https://code.visualstudio.com/Download)获取。
 
 安装.deb包后，系统会提示安装apt仓库和签名密钥，以启用系统包管理器自动更新。
@@ -156,7 +156,7 @@ sudo apt install code # or code-insiders
 
 ```
 
-> ==注释==
+> 注释
 > 
 > 由于手动签名流程和我们使用的发布系统，Debian 仓库可能会延迟多达三小时，且无法立即获得最新版本的 VS Code。
 
@@ -178,7 +178,7 @@ yum check-update &&
 sudo yum install code # or code-insiders
 ```
 
-> ==注释==
+> 注释
 由于手动签名流程和我们使用的发布系统，yum repo 可能会延迟最多三小时，且无法立即获得最新版本的 VS Code。
 
 VS Code 作为 Snap 包正式在 [Snap 商店](https://snapcraft.io/store)中分发
@@ -191,7 +191,7 @@ sudo snap install --classic code # or code-insiders
 ```
 安装后，Snap 守护进程会自动在后台更新 VS Code。每当有新更新可用时，你会收到产品内更新通知。
 
-> ==注释==
+> 注释
 如果你的Linux发行版里没有，可以查看[安装snapd指南](https://docs.snapcraft.io/installing-snapd)，这能帮你设置`snap`
 
 想了解更多关于_Snap的信息_，请访问[官方Snap文档](https://docs.snapcraft.io/)。
@@ -226,7 +226,7 @@ nix-env -i vscode
 sudo dnf install <file>.rpm
 ```
 
-> ==注释== 
+> 注释
 > 其他二进制文件也可在[VS Code下载页面](https://code.visualstudio.com/Download)获取。
 ### 更新
 VS Code每周发售，你可以通过查看[发布说明](https://code.visualstudio.com/updates)来查看新版本。如果VS Code仓库安装正确，那么你的系统包管理器应该像系统上其他包一样处理自动更新。
