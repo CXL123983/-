@@ -13,32 +13,32 @@
 ### 第一步：安装 VS Code
 
 1. 访问 [VS Code 官网](https://code.visualstudio.com/)
-![输入图片说明](/imgs/2026-04-16/KeeVGvVDk4HSqcxB.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/0efbb48e-2963-4be3-a967-1336659f0de7.png?raw=true)
 2. 下载 Windows 版本安装包
-![输入图片说明](/imgs/2026-04-16/2NR8HO2FUwt2xYNs.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/f439ee24-6e05-4022-b942-72a7911d6498.png?raw=true)
 3. 双击运行安装程序
-![输入图片说明](/imgs/2026-04-16/Y2ZJdCCcatWfWso5.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/54ef9a6f-dd96-4477-b192-17d4e3a83dce.png?raw=true)
 4. 选择安装位置，默认情况下 VS Code 会安装在以下目录：
    `C:\Users\{Username}\AppData\Local\Programs\Microsoft VS Code`
    （`Username` 为你的用户名）
    - 如果没有特殊要求，建议使用默认路径
    - 点击"Next（下一步）"继续
-![输入图片说明](/imgs/2026-04-16/DkeXQeFARaZ7uTtX.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/2a051dbd-ca21-4bfb-b71c-342505e7e32b.png?raw=true)
 5. 接下来是设置开始菜单快捷方式，建议使用默认设置
    - 点击"Next（下一步）"继续
-![输入图片说明](/imgs/2026-04-16/ILeswso1iHFh69Wl.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/c7eacc99-cc12-4f5a-afb1-a60680aef7dc.png?raw=true)
 6. 接下来，可以勾选以下选项（推荐）：
-![输入图片说明](/imgs/2026-04-16/eYIOTD30dxSwADvK.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/708f2901-d3d8-4ee5-96d5-f304cf034b37.png?raw=true)
 7. 点击"Install"按钮，等待安装完成后启动 VS Code。
-![输入图片说明](/imgs/2026-04-16/fVHAUxYGWbvbSFQL.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/aedce91d-0eff-4ea3-bb05-691114dd6a96.png?raw=true)
 8. 点击"Finish"按钮完成安装：
-![输入图片说明](/imgs/2026-04-16/E30Caq5zo2Zu944W.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/c4486550-578b-4785-92a5-207d1861bc2b.png?raw=true)
 
 ### 第二步：启动 VS Code
 
 1. 重启电脑
 2. 启动 VS Code，界面如下所示：
-![输入图片说明](/imgs/2026-04-16/o2ZWMQEsBSTOfbsc.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/63533a34-a679-4be6-88b0-b07d5ff20b95.png?raw=true)
 
 ## macOS
 Mac 用户注意选择正确的芯片架构：
@@ -48,11 +48,11 @@ Mac 用户注意选择正确的芯片架构：
 ### 第一步：安装 VS Code
 
 1. 访问 [VS Code 官网](https://code.visualstudio.com/)
-![输入图片说明](/imgs/2026-04-16/chV71GNTgptFgrcR.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/0efbb48e-2963-4be3-a967-1336659f0de7.png?raw=true)
 2. 下载 macOS 版本（文件名：`VSCode-darwin-universal.dmg`）
-![输入图片说明](/imgs/2026-04-16/uoNpAliRRkWoVqVL.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/d60c57f9-1010-435c-b5ac-43db4818b429.png?raw=true)
 3. 将 VS Code 拖拽到"应用程序"文件夹，使其在 macOS Launchpad（启动台）中可用。
-![输入图片说明](/imgs/2026-04-16/zWdLMdOknr9btrPf.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/ec204ce9-dc04-495f-9903-05909585bc6c.png?raw=true)
 
 ### 第二步：启动 VS Code
 
@@ -60,21 +60,21 @@ Mac 用户注意选择正确的芯片架构：
 1. 按下 `Command ⌘` + `Space` 打开Spotlight搜索
 2. 在搜索框中输入"Visual Studio Code"
 3. 按回车键打开
-![输入图片说明](/imgs/2026-04-16/PFRDDoxawDsgxjxp.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/e04dae90-ebef-4674-9d33-1cd9cf1e39df.png?raw=true)
 
 **方式二：通过启动台**
 1. 打开启动台（Launchpad）
 2. 找到并单击 Visual Studio Code 图标
-![输入图片说明](/imgs/2026-04-16/FUZjIk3zPThJ1msb.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/8e17bd07-ae2d-4f2e-b166-a0c9a2ac647e.png?raw=true)
 
 ### 第三步：安全提示
 
 1. macOS 将提示是否确认打开从互联网下载的程序
 - 单击"Open（打开）"按钮即可：
-![输入图片说明](/imgs/2026-04-16/DV8Oruj4G1e1q3r6.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/e3c8014c-d03a-4e2f-ae77-b33ecc987d60.png?raw=true)
 
 2. 启动 Visual Studio Code，界面如下：
-![输入图片说明](/imgs/2026-04-16/Da8hsPwlahcyXgYm.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/32974c08-8a13-4944-817b-5a44455d0a81.png?raw=true)
 
 ## Linux
 
@@ -158,7 +158,7 @@ sudo yum install code # or code-insiders
 由于手动签名流程和我们使用的发布系统，yum repo 可能会延迟最多三小时，且无法立即获得最新版本的 VS Code。
 
 VS Code 作为 Snap 包正式在 [Snap 商店](https://snapcraft.io/store)中分发
-![输入图片说明](/imgs/2026-04-20/lVkBDrBzQTyM7TOP.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/cc704a49-dc1c-497d-926b-98efdbd83637.png?raw=true)
 你可以通过运行以下程序来安装：
 ```
 sudo snap install --classic code # or code-insiders
