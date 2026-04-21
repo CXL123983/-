@@ -19,19 +19,26 @@
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/ade98490-b8ae-4962-a488-b0316d0089b1.png?raw=true)
 3. 双击下载后的安装包，如下所示：
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/587f4716-a332-456a-8f61-95db17e2bcb0.png?raw=true)
-4. 点击以上的 Next 按钮，将出现如下界面：
+
+5. 点击以上的 Next 按钮，将出现如下界面：
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/137e5186-5c9c-4afe-993e-59c8cc39f5fc.png?raw=true)
-5. 勾选接受协议选项，点击 Next 按钮 :
+
+7. 勾选接受协议选项，点击 Next 按钮 :
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/bc83db3c-c6ed-4ffe-aecd-161eb411e226.png?raw=true)
-6. Node.js默认安装目录为 "C:\Program Files\nodejs\" , 你可以修改目录，并点击 Next 按钮：
+
+9. Node.js默认安装目录为 "C:\Program Files\nodejs\" , 你可以修改目录，并点击 Next 按钮：
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/7dee750b-9825-43da-a546-764fc9a6249a.png?raw=true)
-7. 点击 Install（安装） 开始安装 Node.js，你也可以点击 Back（返回）来修改先前的配置：
+
+11. 点击 Install（安装） 开始安装 Node.js，你也可以点击 Back（返回）来修改先前的配置：
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/b01de2e8-dd4f-4b00-b415-ad13bd47dc91.png?raw=true)
+
 安装过程：
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/d13e63fe-05c7-4552-b9b2-778c12f9958a.png?raw=true)
+
 点击 Finish（完成）按钮退出安装向导。
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/6a509d04-b21d-4b37-893d-9b46e51b050a.png?raw=true)
+
  下载以后，一直下一步直到安装完成
 **方法二：包管理器安装**
 
