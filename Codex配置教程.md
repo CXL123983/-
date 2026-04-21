@@ -54,7 +54,7 @@
 1. 找到下载的 `.exe` 安装包
 2. **右键点击** → 选择"以管理员身份运行"
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/0f69dc74-4d2c-427d-bd07-12a37ae3e22b.png?raw=true)
-![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/58faf2e9-dc13-4e00-abb9-a295d99467cb.png?raw=trueg)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/58faf2e9-dc13-4e00-abb9-a295d99467cb.png?raw=trueg)
 3. 如果弹出安全警告，点击"是"
 4. 在安装向导中：
    - 点击"下一步"
