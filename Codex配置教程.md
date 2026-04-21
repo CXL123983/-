@@ -48,7 +48,7 @@
 2. 选择 Windows 版本下载（文件名如：`Codex-Setup-x.x.x.exe`）
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/cad73569-ba4e-42b8-b415-07ba8a645ac9.png?raw=true)
 3. 等待下载完成（约 100-200MB）
-![输入图片说明]([/imgs/2026-04-16/PUcFNd8qKpfAAhyn.pn](https://github.com/CXL123983/-/blob/main/codex/5c0f49ab-4282-45d7-9894-831e9504e91a.png?raw=true)g)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/58faf2e9-dc13-4e00-abb9-a295d99467cb.png?raw=true)
 ### 第二步：安装应用
 
 1. 找到下载的 `.exe` 安装包
