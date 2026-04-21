@@ -230,7 +230,7 @@ sudo dnf install <file>.rpm
 > 其他二进制文件也可在[VS Code下载页面](https://code.visualstudio.com/Download)获取。
 ### 更新
 VS Code每周发售，你可以通过查看[发布说明](https://code.visualstudio.com/updates)来查看新版本。如果VS Code仓库安装正确，那么你的系统包管理器应该像系统上其他包一样处理自动更新。
-> ==注释== 
+> 注释
 [Snap 包](https://code.visualstudio.com/docs/setup/linux#_snap)的更新是自动的，并在后台运行
 
 ## 验证安装
