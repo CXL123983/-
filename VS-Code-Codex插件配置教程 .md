@@ -2,7 +2,7 @@
 
 欢迎使用 VS Code Codex 插件！这是专为 VS Code 用户设计的版本，提供深度集成的 AI 编程体验，让 AI 助手无缝融入你的开发工作流。
 
-开始前请先完成[VS-Code环境安装教程](/%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/VS-Code%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)和[Node.js环境安装教程](/%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/Node.js%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)以及[Codex-CLI配置教程](/%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/Codex-CLI%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)。
+开始前请先完成[VS-Code环境安装教程](https://github.com/CXL123983/-/blob/main/VS-Code%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)和[Node.js环境安装教程](https://github.com/CXL123983/-/blob/main/Node.js%E7%8E%AF%E5%A2%83%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B.md)以及[Codex-CLI配置教程](https://github.com/CXL123983/-/blob/main/Codex-CLI%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)。
 ## 📋 目录
 
 [Windows](#windows)
@@ -19,17 +19,17 @@
 **方式一：通过官方网站**
 
 1. 访问[官方网站](https://chatgpt.com/codex)
-![输入图片说明](/imgs/2026-04-20/wJ51iKppYzTf94VM.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code-Codex/bdd25c8b-e2e0-4545-b0c7-95dc1924cfa4.png?raw=true)
 2. 开始安装流程
-![输入图片说明](/imgs/2026-04-20/XNg1ZhUiQLD9qtFk.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code-Codex/c087ad6f-e01d-4a58-bf75-38d39f964d9e.png?raw=true)
 3.跳转到 VS Code 插件市场
 系统会引导您安装 VS Code 插件。
 点击相应按钮后，会自动跳转到 VS Code 插件市场。
-![输入图片说明](/imgs/2026-04-20/5ngMG2ISmPcrywD3.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code-Codex/ebf70bc0-aa05-403d-a5f9-341eb0e0dbd7.png?raw=true)
 4. 完成安装
 在 VS Code 插件市场中，点击 “安装” 按钮即可完成 Codex 插件的安装。
 安装完成后，您就可以在 VS Code 中使用 Codex 的各项功能了。
-![输入图片说明](/imgs/2026-04-20/FGpUTQwUtsR1Ttgn.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code-Codex/5223ce12-0c3e-49cc-b868-d6e36f4198cf.png?raw=true)
 
 **方式二：通过[官方插件](https://marketplace.visualstudio.com/items?itemName=openai.chatgpt)**
 
