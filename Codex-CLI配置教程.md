@@ -29,11 +29,11 @@ Codex CLI依赖 Node.js 运行环境，请先参考[Node.js环境安装教程](/
 ```bash
 npm install -g @openai/codex
 ```
-![输入图片说明](/imgs/2026-04-16/qfONxCPEfXFc5NqU.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/4d2f421b-a32e-4002-91ee-e9be5b0bcb02.png?raw=true)
 以上命令会从 npm 官方仓库下载并安装最新版本的 Codex 工具。
 
 3. 等待安装完成（可能需要 2-5 分钟）
-![输入图片说明](/imgs/2026-04-16/cTfoAWW4xld2Zhbv.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/aa1fa093-886b-4ccb-a9ea-45e458e36d9d.png?raw=true)
 
 **方式二：使用 Git Bash**
 
@@ -48,16 +48,16 @@ npm install -g @openai/codex
 ```bash
 codex --version
 ```
-![输入图片说明](/imgs/2026-04-16/L4Ozzt1lxL0JXP7w.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/9e3ea824-9851-4ba3-96aa-c3aeff71d469.png?raw=true)
 
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
 1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
-![输入图片说明](/imgs/2026-04-18/2yWEz4escUgx8aRY.png)
-![输入图片说明](/imgs/2026-04-18/CmRhUAwjxsLoJ6bA.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
 2. 复制密钥（格式：`sk-xxxxx`）
-![输入图片说明](/imgs/2026-04-18/gd9q1C4aZGGN3W0B.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/c4ea6ae7-7a45-4082-9c31-3cdffc8df037.png?raw=true)
 3. 妥善保存
 ### 第四步：创建配置目录
 Codex 使用配置文件进行连接设置，需要创建 `config.toml` 和 `auth.json` 两个文件。
@@ -82,7 +82,7 @@ mkdir ~/.codex
 #### 1、创建 auth.json
 点击密钥旁的**复制**按钮获取API Key：
 
-![输入图片说明](/imgs/2026-04-16/ubfHSogs9aLJNtJL.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/c4ea6ae7-7a45-4082-9c31-3cdffc8df037.png?raw=true)
 
 在 `.codex` 文件夹中创建 `auth.json` 文件，将 `YOUR_API_KEY` 替换为你在控制台创建的密钥：
 ```json
@@ -138,7 +138,7 @@ codex
 ```
 
 3. 如果看到欢迎界面，说明配置成功！
-![输入图片说明](/imgs/2026-04-16/2t7myJNOP6w3lTYg.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/308c2579-3539-4f45-b245-dde31e2b1769.png?raw=true)
 
 更多使用说明请参考 [OpenAI 官方文档](https://platform.openai.com/docs)。
 
@@ -165,11 +165,11 @@ codex --version
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
 1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
-![输入图片说明](/imgs/2026-04-18/2yWEz4escUgx8aRY.png)
-![输入图片说明](/imgs/2026-04-18/CmRhUAwjxsLoJ6bA.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
 2. 复制密钥（格式：`sk-xxxxx`）
-![输入图片说明](/imgs/2026-04-18/gd9q1C4aZGGN3W0B.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/c4ea6ae7-7a45-4082-9c31-3cdffc8df037.png?raw=true)
 3. 妥善保存
 ### 第四步：创建配置目录
 
@@ -261,11 +261,11 @@ codex --version
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
 1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
-![输入图片说明](/imgs/2026-04-18/2yWEz4escUgx8aRY.png)
-![输入图片说明](/imgs/2026-04-18/CmRhUAwjxsLoJ6bA.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
 2. 复制密钥（格式：`sk-xxxxx`）
-![输入图片说明](/imgs/2026-04-18/gd9q1C4aZGGN3W0B.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/c4ea6ae7-7a45-4082-9c31-3cdffc8df037.png?raw=true)
 3. 妥善保存
 ### 第四步：创建配置目录
 
@@ -338,7 +338,7 @@ codex
 
 #### auth.json
 1. 点击密钥旁的 **复制** 按钮获取 API Key：
-![输入图片说明](/imgs/2026-04-16/5xaFVMKjsayMMpHJ.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/c4ea6ae7-7a45-4082-9c31-3cdffc8df037.png?raw=trueg)
 
 在同一目录下创建 `auth.json`，将 `YOUR_API_KEY` 替换为你在控制台创建的密钥：
 ```json
