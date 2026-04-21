@@ -22,7 +22,6 @@
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/587f4716-a332-456a-8f61-95db17e2bcb0.png?raw=true)
 4. 点击以上的 Next 按钮，将出现如下界面：
-
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/137e5186-5c9c-4afe-993e-59c8cc39f5fc.png?raw=true)
 5. 勾选接受协议选项，点击 Next 按钮 :
 
