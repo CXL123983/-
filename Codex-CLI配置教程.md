@@ -52,7 +52,7 @@ codex --version
 
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
-1. 登录 [GPAPI控制台](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
+1. 登录 [API 密钥 - 拓垦API](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
@@ -164,7 +164,7 @@ codex --version
 ```
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
-1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
+1. 登录 [API 密钥 - 拓垦API](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
@@ -260,7 +260,7 @@ codex --version
 ```
 如果显示版本号，恭喜你！Codex 已经成功安装了。
 ### 第三步：获取API密钥
-1. 登录 [GPAPI控制台](http://192.168.3.92:3000/login)，进入 **API 密钥** 页面，点击 **创建密钥**
+1. 登录 [API 密钥 - 拓垦API](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/fab4f4ec-5ad2-4833-bb34-fa56e831fd2d.png?raw=true)
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex-cli/36d38b24-9eb2-4995-8840-9a78461b2584.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
