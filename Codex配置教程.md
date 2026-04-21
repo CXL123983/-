@@ -14,11 +14,11 @@
 ### 获取 API 密钥
 
 1. 登录[API 密钥 - 拓垦API](https://token.gepinkeji.com/keys)，进入 **API 密钥** 页面，点击 **创建密钥**
-![输入图片说明](/imgs/2026-04-16/oWjNrLU0j5FIOPwM.png)
-![输入图片说明](/imgs/2026-04-16/4oyAGXBqHEJT1ey2.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/24816166-6415-46b3-84b8-b9ede25e6c9d.png?raw=true)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/1d708f55-97d8-468f-b569-c560582ba0f3.png?raw=true)
 > **安全提示**：API Key 等同于账号凭证，请妥善保管，切勿提交到代码仓库或公开分享。
 2. 复制密钥（格式：`sk-xxxxx`）
-![输入图片说明](/imgs/2026-04-18/AmgkIe8AcCCLfltC.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/dca448ff-05c7-4d4e-896f-a3b35cacc8ae.png?raw=true)
 3. 妥善保存
 
 ### 安装前检查
@@ -44,9 +44,9 @@
 ### 第一步：下载安装包
 
 1. 访问[ Codex 官网](https://openai.com/zh-Hans-CN/codex/)或[ GitHub Releases 页面](https://github.com/openai/codex/releases)
-![输入图片说明](/imgs/2026-04-16/VkWHPEAPz6Gg7WlE.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/ee50078e-dac6-4f14-af82-2d9ad2bf4a3c.png?raw=true)
 2. 选择 Windows 版本下载（文件名如：`Codex-Setup-x.x.x.exe`）
-![输入图片说明](/imgs/2026-04-16/poki3osmtAtMZpu4.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/cad73569-ba4e-42b8-b415-07ba8a645ac9.png?raw=true)
 3. 等待下载完成（约 100-200MB）
 ![输入图片说明](/imgs/2026-04-16/PUcFNd8qKpfAAhyn.png)
 ### 第二步：安装应用
