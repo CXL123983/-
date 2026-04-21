@@ -254,4 +254,4 @@ code --version
 -   Windows：安装时勾选 Add to PATH。
 -   macOS/Linux：按 `Ctrl+Shift+` (`~`) 调出集成终端。
 ## 下一步
- - [VS-Code-Codex配置教程](/%E6%8E%A5%E5%85%A5%E6%96%87%E6%A1%A3/VS-Code-Codex%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)
+ - [VS-Code-Codex配置教程](https://github.com/CXL123983/-/blob/main/VS-Code-Codex%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B%20.md)
