@@ -48,13 +48,13 @@
 2. 选择 Windows 版本下载（文件名如：`Codex-Setup-x.x.x.exe`）
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/cad73569-ba4e-42b8-b415-07ba8a645ac9.png?raw=true)
 3. 等待下载完成（约 100-200MB）
-![输入图片说明](/imgs/2026-04-16/PUcFNd8qKpfAAhyn.png)
+![输入图片说明]([/imgs/2026-04-16/PUcFNd8qKpfAAhyn.pn](https://github.com/CXL123983/-/blob/main/codex/5c0f49ab-4282-45d7-9894-831e9504e91a.png?raw=true)g)
 ### 第二步：安装应用
 
 1. 找到下载的 `.exe` 安装包
 2. **右键点击** → 选择"以管理员身份运行"
-![输入图片说明](/imgs/2026-04-16/Z7BFbAO8vG3PytKa.png)
-![输入图片说明](/imgs/2026-04-16/aUWTVuvm99TQt0uz.png)
+![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/0f69dc74-4d2c-427d-bd07-12a37ae3e22b.png?raw=true)
+![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/58faf2e9-dc13-4e00-abb9-a295d99467cb.png?raw=trueg)
 3. 如果弹出安全警告，点击"是"
 4. 在安装向导中：
    - 点击"下一步"
@@ -72,19 +72,19 @@
 **方式二：从开始菜单启动**
 - 点击开始菜单
 - 搜索 "Codex"
-![输入图片说明](/imgs/2026-04-16/Tw2zuJa80A19hVVo.png)
+![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/45d98e6a-5a4b-40ac-ba63-b4b45f56a93c.png?raw=true)
 - 点击应用图标
 
 ### 第四步：首次配置
 
 1. 应用启动后会弹出配置向导
 2. 使用 ChatGPT 账号或 API Key 登录
-![输入图片说明](/imgs/2026-04-16/gLholphHNR0H3KXc.png)
+![输入图片说明](/https://github.com/CXL123983/-/blob/main/codex/b00764b9-fd8c-4d27-80f9-5bd458c36141.png?raw=true)
 3. 输入你的 API 密钥：
    ```
    sk-xxxxx（替换为你的真实密钥）
    ```
-   ![输入图片说明](/imgs/2026-04-16/yYlWrL9OoOx3Ypkf.png)
+   ![输入图片说明](https://github.com/CXL123983/-/blob/main/codex/cea8da14-08fb-4bb2-a78d-31213563b3f3.png?raw=true)
 4. 选择 API 站点：
    - 点击"自定义 API 站点"
    - 输入：`https://api.gpapi.com/v1`
