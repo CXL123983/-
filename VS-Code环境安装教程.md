@@ -182,7 +182,9 @@ sudo yum install code # or code-insiders
 由于手动签名流程和我们使用的发布系统，yum repo 可能会延迟最多三小时，且无法立即获得最新版本的 VS Code。
 
 VS Code 作为 Snap 包正式在 [Snap 商店](https://snapcraft.io/store)中分发
+
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/VS-Code/cc704a49-dc1c-497d-926b-98efdbd83637.png?raw=true)
+
 你可以通过运行以下程序来安装：
 ```
 sudo snap install --classic code # or code-insiders
