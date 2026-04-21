@@ -218,8 +218,8 @@ source ~/.bashrc
 **版本过旧**
 如果系统自带的 Node.js 版本过旧，建议使用 NodeSource 仓库或 nvm 安装最新 LTS 版本。
 ## 下一步
- - [Chatbox配置教程](https://github.com/CXL123983/-/blob/main/Chatbox配置教程?raw=true)
- - [Codex-CLI配置教程](/Codex-CLI%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md.md)
- - [Codex桌面应用配置教程](/Codex%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md.md)
- - [VS-Code-Codex配置教程](/VS-Code-Codex%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md.md)
+ - [Chatbox配置教程](https://github.com/CXL123983/-/blob/main/Codex-CLI%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)
+ - [Codex-CLI配置教程](https://github.com/CXL123983/-/blob/main/Codex-CLI%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)
+ - [Codex配置教程](https://github.com/CXL123983/-/blob/main/Codex%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B.md)
+ - [VS-Code-Codex配置教程](https://github.com/CXL123983/-/blob/main/VS-Code-Codex%E6%8F%92%E4%BB%B6%E9%85%8D%E7%BD%AE%E6%95%99%E7%A8%8B%20.md)
 
