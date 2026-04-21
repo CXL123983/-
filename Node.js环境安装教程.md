@@ -37,6 +37,7 @@
 7. 点击 Install（安装） 开始安装 Node.js，你也可以点击 Back（返回）来修改先前的配置：
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/b01de2e8-dd4f-4b00-b415-ad13bd47dc91.png?raw=true)
+
 安装过程：
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/d13e63fe-05c7-4552-b9b2-778c12f9958a.png?raw=true)
@@ -74,25 +75,32 @@ npm --version
 1. 前往 [Node.js 官网](https://nodejs.org/) 
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/944e285b-56ff-4699-afad-a58f40b6b127.png?raw=true)
+
 2. 下载 LTS 版本的 .pkg 安装包
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/944e285b-56ff-4699-afad-a58f40b6b127.png?raw=true)
+
 3. 双击下载的 `.pkg` 文件，按照屏幕提示点击“继续”并完成安装。
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/2e4b7a50-2ae3-408b-a199-cbd1076aca7d.png?raw=true)
+
 4. 点击继续，会提示软件的相关许可协议
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/6bdca4d8-228d-47af-9945-c92765d99545.png?raw=true)
+
 5. 再次点击继续，会弹窗提示必须同意相关协议条款才能走下一步。
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/00ea049b-a092-4359-b0bb-1693a83477b7.png?raw=true)
+
 6. 选择软件安装的目的盘
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/c690409d-2cde-4ec5-a8de-5def7c0f2f23.png?raw=true)
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/5d7276ad-c7f2-43ab-b091-5c507c3635f6.png?raw=true)
+
 7. 下一步，此时会提示让输入电脑的密码来开始安装。
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/223b711b-e384-4017-90e5-c7d5d3d3ab67.png?raw=true)
+
 8. 安装成功，关闭安装窗口即可。
 
 ![输入图片说明](https://github.com/CXL123983/-/blob/main/Node.js/58ac0c91-3373-426b-a996-5ef7dbe75ce2.png?raw=true)
